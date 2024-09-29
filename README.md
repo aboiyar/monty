@@ -1,1 +1,1 @@
-Tasks demonstrating the monty scripting language.`
+Tasks demonstrating the monty scripting language.
